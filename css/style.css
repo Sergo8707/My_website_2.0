@@ -37,6 +37,9 @@ a:focus {
 	font-family: 'Varela Round', sans-serif;
 
 }
+.space {
+    margin-right: 15px;
+}
 .sidebar img{
 	border:1px solid #fff;
 	padding:0em;
@@ -376,7 +379,16 @@ address span {
 .details{
 	width:30%;
 	float:right;
+    margin-left: 90%;
 }
+
+.lang{
+    float: right;
+    margin-top: 20px;
+    font-size: 10px;
+    text-align: right;
+}
+
 .sidebar img{
 	width:100%;
 }
