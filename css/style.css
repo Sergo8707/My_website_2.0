@@ -51,6 +51,10 @@ a:focus {
 	color:#fff;
 }
 
+.space {
+    margin-right: 15px;
+}
+
 .details p{
 	color:#101010;
 	font-size:0.9em;
