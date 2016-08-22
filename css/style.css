@@ -236,9 +236,10 @@ h3.clr3{
 	padding:2em 0 0 2em;
 }
 
-.git {
+.menu_img{
     width: 25px;
     border-radius: 100px;
+    margin-right: 8px;
 }
 
 .image {
